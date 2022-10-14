@@ -4,7 +4,8 @@
   "description": "",
   "main": "dist/vue-funnel-graph.umd.js",
   "module": "dist/vue-funnel-graph.esm.js",
-  "unpkg": "dist/vue-funnel-graph.min.js",
+    "unpkg": "dist/vue-funnel-graph.min.js",
+    "type": "module",
   "browser": {
     "./sfc": "src/lib-components/vue-funnel-graph.vue"
   },
